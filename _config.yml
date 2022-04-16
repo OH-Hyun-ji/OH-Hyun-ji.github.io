@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://user-images.githubusercontent.com/83101729/163669751-62e59847-e2aa-468c-9c10-6cb12391630c.png # Open Graph/Twitter default site image
+og_image                 : "./assets/images/banana_real.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
