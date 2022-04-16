@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : " 🍌 HJ_ba "
-  avatar           : "/assets/image/banana_real.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/image/banana_real.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🔥 자기개발 & 공부중입니다.🔥"
  # location         : "Somewhere"
   email            :
