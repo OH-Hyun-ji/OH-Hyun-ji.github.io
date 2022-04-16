@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "HJ Coding Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HJ_banana"
+name                     : "HJ_ba"
 description              : "공부 노트"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/banana_real.jpg" # Open Graph/Twitter default site image
+og_image                 : "https://user-images.githubusercontent.com/83101729/163669751-62e59847-e2aa-468c-9c10-6cb12391630c.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : " 🍌 HJ_banana "
+  name             : " 🍌 HJ_ba "
   avatar           : "/assets/images/banana_real.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🔥 자기개발 & 공부중입니다.🔥"
  # location         : "Somewhere"
