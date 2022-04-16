@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "./assets/images/banana_real.jpg" # Open Graph/Twitter default site image
+og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : " 🍌 HJ_ba "
-  avatar           : "/assets/images/banana_real.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "./assets/images/banana_real.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "🔥 자기개발 & 공부중입니다.🔥"
  # location         : "Somewhere"
   email            :
